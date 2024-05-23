@@ -1,0 +1,3 @@
+[submodule "demisto"]
+	path = demisto
+	url = https://github.com/demisto/content.git
